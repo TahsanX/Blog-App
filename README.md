@@ -44,5 +44,5 @@ This project is a fully responsive, SEO-optimized personal blog built with **Nex
 - **Unsplash** (royalty-free images)  
 
 ## 🔗 Demo & Resources
-- **Live Demo:** https://create-blog-with-nextjs.vercel.app/  
+- **Live Demo:** https://blog-app-kkof.vercel.app/
 
